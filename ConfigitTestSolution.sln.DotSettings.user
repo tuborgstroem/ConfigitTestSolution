@@ -1,0 +1,58 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=03a939d3_002D3311_002D43e1_002Dba45_002D244b3994c3c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test3Pass" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests.Test3Pass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests.Test4Pass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1940a9f6_002D524f_002D4390_002D97b0_002Dea990a5ebb8b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test2Fail #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests.Test2Fail&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1f2970b0_002De20c_002D4126_002D8cfc_002Dcda29f8f451d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test4Pass #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests.Test4Pass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=59a5652f_002D1069_002D45ea_002D8b59_002Df4706c654cb1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test2Fail" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b7bd9fc_002D01ea_002D406d_002D8349_002D33cf18c554ca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ac71c46_002D837c_002D4f89_002D8346_002Dbcedeee79083/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1Fail #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests.Test1Fail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests.TestExamplePass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=81a42823_002Dd9c2_002D437f_002D94d0_002D837e825dafa2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1Fail" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cbf13437_002D2efe_002D4481_002Db7a0_002D02fa2abfc5cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test4Pass" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=db409a5b_002D5dc8_002D4690_002Dac14_002D2700a4fdfee2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f9e8c357_002D6ced_002D4a20_002D9ce0_002D85f1530f7e87/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test8Pass" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests.Test8Pass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fa2d282e_002Dcefd_002D421f_002Daa20_002D0d3e63a9e85b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test4Pass #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB07220-9CC8-434E-AE3A-AB83B8197E4D::net7.0::ConfigitSolutionsTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
